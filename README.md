@@ -4,6 +4,7 @@ A set of left-handed cursors for left-handed people. Flipped the right-hand Yaru
 
 ## Installation
 - Download the repository.
+- Unzip the downloaded file and remove `index.php` and `README.md`.
 - Copy the whole directory into `~/.icons` (current user only) or `/usr/share/icons/` (globally available).
 - Use the GNOME Tweaker application to choose the cursor.
 
