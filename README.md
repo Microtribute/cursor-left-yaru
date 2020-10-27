@@ -2,6 +2,8 @@
 
 A set of left-handed cursors for left-handed people. Flipped the right-hand Yaru cursors and made hotspot adjustments. As a bonus, this cursor set has a black hand!
 
+<img src="https://nimbusweb.me/box/attachment/4784478/snus9zm05yeer7rizf0a/y48mNtf2gt6zfe2Y/preview.png">
+
 ## Installation
 - Download the repository.
 - Unzip the downloaded file and remove `index.php` and `README.md`.
